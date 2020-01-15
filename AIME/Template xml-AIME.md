@@ -2,9 +2,9 @@
 
 # Meta
 
-- moduleName value="AIME default" (nama alat test)
-- moduleTitle value=""
-- mediaPath value=""
+- moduleName value="AIME default" (nama modul atau alat test)
+- moduleTitle value="" (judul modul)
+- mediaPath value="" (folder media, dikosongkan)
 - evidenceType value="options" (bentuk pilihan jawaban)
 - testItems value="136" (jumlah soal)
 - itemsType value="simple/teaser/teaser-grouped" (bentuk soal)
@@ -25,6 +25,7 @@
 
 # BookIntro
 Simaklah beragam pernyataan berikut, kemudian pilihlah salah satu dari kolom SANGAT TIDAK SETUJU, TIDAK SETUJU, RAGU-RAGU, SETUJU, SANGAT SETUJU yang menggambarkan diri Anda.
+
 # BookBody
 
 
