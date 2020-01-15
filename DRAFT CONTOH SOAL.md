@@ -1,6 +1,16 @@
 # WORKBOOK AIME
+- moduleName value="AIME Default"
+- moduleTitle value=""
+- mediaPath value=""
+- evidenceType value="option"
+- testItems value="136"
+- itemsType value="teaser"
+- optionsType value="predefined"
+- optionsNums value="5"
+- optionsSelect value="1"
+- elementsType value="MNGE, USNG, IDTK, UDST"
 
-- title: AIME PT ABC (judul woorkbook)
+title: AIME PT ABC (judul woorkbook)
 - bookType: simple-teaser
 - testItems: 136
 - optionsMode: likert
