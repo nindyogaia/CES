@@ -11,7 +11,7 @@
 - optionsType value="predefined/statement" (bentuk jawaban)
 - optionsNums value="5" (jumlah pilihan jawaban)
 - optionsSelect value="1/2" (jumlah yang harus dipilih)
-- elements=
+- elements="IDEN, USIN, UNDE, MANA"
 
 # PredefinedItems
 
