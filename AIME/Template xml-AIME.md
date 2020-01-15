@@ -2,13 +2,13 @@
 
 # Meta
 
-- moduleName value="AIME default"
+- moduleName value="AIME default" (nama alat test)
 - moduleTitle value=""
 - mediaPath value=""
-- evidenceType value="options"
+- evidenceType value="options" (bentuk pilihan jawaban)
 - testItems value="136" (jumlah soal)
-- itemsType value="simple/teaser/teaser-grouped"
-- optionsType value="predefined/statement"
+- itemsType value="simple/teaser/teaser-grouped" (bentuk soal)
+- optionsType value="predefined/statement" (bentuk jawaban)
 - optionsNums value="5" (jumlah pilihan jawaban)
 - optionsSelect value="1/2" (jumlah yang harus dipilih)
 - elements=
