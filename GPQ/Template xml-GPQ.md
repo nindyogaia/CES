@@ -6,6 +6,7 @@
 - evidenceType value="options" (jenis jawaban, isinya bisa option / writing / behavior)
 - testItems value="120" (jumlah soal)
 - itemsType value="simple" (tipe soal, isinya bisa simple / teaser / teaser-grouped)
+- evidence value="kode/elemen" (kolom apa saja yang harus di-save sbg evidence, isinya bisa nomor / kode/elemen / statement)
 - evidence value="nomor, kode/elemen, statement" (kolom apa saja yang harus di-save sbg evidence)
 - optionsType value="statement" (tipe pilihan, isinya bisa statement / predefined)
 - optionsNums value="2" (jumlah pilihan)
@@ -19,13 +20,16 @@
 diisi dengan soal/pernyataannya.
 
 untuk GPQ dan GPRO-L, huruf A & B di awal pernyataan dibuang, diganti dgn kode elemen (pernyataan tersebut menunjukkan elemen apa)
-
 contoh:
 
 ### SOAL 1
 
+[ANAT] Saya senang melihat interaksi antar beragam situasi
+
+[PLAN] Saya suka memikirkan kondisi jangka panjang
+
+### SOAL 2
+
 [CONT] Saya senang melihat interaksi antar beragam situasi
 
 [STRT] Saya suka memikirkan kondisi jangka panjang
-
-
