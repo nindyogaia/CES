@@ -1,25 +1,26 @@
 # WORKBOOK DISKUSI
 
-- title: LGD GAIA
-- bookType: 
-- testItems: 5
-- optionsMode: 
-- optionsNums: 
-- optionsSelect: 
-- evidenceType: observed behavior
-- teaserTail: 
-- elements: OBSE, INVO, INQU, ADVO, SITH
+# Meta
 
-# INTRO
+- moduleName value="LGD default"
+- moduleTitle value=""
+- mediaPath value=""
+- evidenceType value="observed behavior"
+- testItems value=""
+- itemsType value=""
+- evidence value=""
+- optionsType value=""
+- optionsNums value=""
+- optionsSelect value=""
+- elements="OBSE, INVO, INQU, ADVO, SITH"
+
+# BookIntro
+
+![Pendahuluan](Diskusi-Pendahuluan.png)
 
 Sebelum melakukan proses diskusi kelompok perlu menyampaikan beberapa hal kepada peserta
 
-1. Sampaikan kepada peserta untuk mengecek kembali kelengkapan berkas yang akan digunakan sebagai bahan diskusi kelompok
-2. Menyampaikan peraturan yang harus dilakukan peserta selama jalannya diskusi berlangsung
-   - Peserta tidak diperbolehkan menunjuk diri sendiri maupun orang lain sebagai pimpinan selama proses diskusi berlangsung
-   - serta tidak diperkenankan melakukan votting dalam pengambilan keputusan untuk menentukan proposal yang akan disetujui
-
-# Section
+# BookBody
 
 # Artikel
 
@@ -66,10 +67,6 @@ Sebelum melakukan proses diskusi kelompok perlu menyampaikan beberapa hal kepada
 - Artikel 11
 
 ![Proposal](Diskusi-Proposal 07.png)
-
-# Soal
-
-![Pendahuluan](Diskusi-Pendahuluan.png)
 
 # Elemen
 
