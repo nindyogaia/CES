@@ -5,6 +5,7 @@
 - moduleName value="AIME default" (nama modul atau alat test)
 - moduleTitle value="" (judul modul)
 - mediaPath value="" (folder media, dikosongkan)
+- evidenceType value="options" (bentuk pilihan jawaban)
 - evidenceType value="options" (jenis jawaban, isinya bisa options / writing / behavior)
 - testItems value="136" (jumlah soal)
 - itemsType value="simple" (tipe soal, isinya bisa simple / teaser / teaser-grouped)
