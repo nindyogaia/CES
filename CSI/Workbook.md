@@ -1,246 +1,250 @@
 # WORKBOOK CSI
 
-- title: CSI
-- bookType: simple-teaser
-- testItems: 72
-- optionsMode: likert
-- optionsNums: 5
-- optionsSelect: 1
-- evidenceType: option
-- teaserTail:
-- elements: PROS, COGR, EXPE, SOCS, PROA, WIST, SELC, SOCW, PRFE, EMFE, PRFD, EMFD, ENGA, DISE
+# Meta
 
-# LIKERT
+- moduleName value="CSI default" (nama modul atau alat test)
+- moduleTitle value="" (judul modul)
+- mediaPath value="" (folder media, dikosongkan)
+- evidenceType value="options" (jenis jawaban, isinya bisa options / writing / behavior)
+- testItems value="136" (jumlah soal)
+- itemsType value="simple" (tipe soal, isinya bisa simple / teaser / teaser-grouped)
+- evidence value="nomor, kode/elemen, statement" (kolom apa saja yang harus di-save sbg evidence)
+- optionsType value="predefined" (tipe pilihan, isinya bisa statement / predefined)
+- optionsNums value="5" (jumlah pilihan jawaban)
+- optionsSelect value="1" (jumlah pilihan yang harus dipilih)
+- elements=PROS, COGR, EXPE, SOCS, PROA, WIST, SELC, SOCW, PRFE, EMFE, PRFD, EMFD, ENGA, DISE
 
-- SANGAT TIDAK SESUAI
-- TIDAK SESUAI
-- AGAK SESUAI
-- SESUAI
-- SANGAT SESUAI
+# PredefinedItems 
 
-# INTRO
+(item-item yang dipakai berulang)
 
-Bayangkan suatu situasi yang pernah terjadi dalam hidup Anda, dan telah membuat Anda menjadi stress berat.
+- Options
+- Options name="likert"
+- Options role="1"Sangat tidak sesuai
+- Options role="2"Tidak sesuai
+- Options role="3"Agak sesuai
+- Options role="4"Sesuai
+- Options role="5"Sangat sesuai
 
-Kemudian simaklah beragam pernyataan berikut, lalu pilihlah salah satu dari kolom **SANGAT TIDAK SESUAI, TIDAK SESUAI, AGAK SESUAI, SESUAI, SANGAT SESUAI** yang menggambarkan diri Anda.
+# BookIntro
 
-### SELAMAT MENGERJAKAN
+# BookBody
 
 ### SOAL 1
-Saya berkonsentrasi pada apa yang harus dilakukan untuk langkah selanjutnya.
+[PROS] Saya berkonsentrasi pada apa yang harus dilakukan untuk langkah selanjutnya.
 
 ### SOAL 2
-Saya mencoba untuk mendapatkan sudut pandang lain terhadap situasi tersebut.
+[COGR] Saya mencoba untuk mendapatkan sudut pandang lain terhadap situasi tersebut.
 
 ### SOAL 3
-Saya mencari cara untuk mengeluarkan kesumpekan saya.
+[EXPE] Saya mencari cara untuk mengeluarkan kesumpekan saya.
 
 ### SOAL 4
-Saya mendapat simpati dan pengertian dari seseorang.
+[SOCS] Saya mendapat simpati dan pengertian dari seseorang.
 
 ### SOAL 5
-Saya tidur lebih banyak dari biasanya.
+[PROA] Saya tidur lebih banyak dari biasanya.
 
 ### SOAL 6
-Saya berharap masalah itu akan selesai dengan sendirinya.
+[WIST] Saya berharap masalah itu akan selesai dengan sendirinya.
 
 ### SOAL 7
-Saya pikir kalau saya tidak seceroboh itu, mungkin hal ini tidak akan terjadi.
+[SELC] Saya pikir kalau saya tidak seceroboh itu, mungkin hal ini tidak akan terjadi.
 
 ### SOAL 8
-Saya simpan perasaan saya untuk diri sendiri.
+[SOCW] Saya simpan perasaan saya untuk diri sendiri.
 
 ### SOAL 9
-Saya lakukan apapun yang bisa membantu mempercepat selesainya masalah.
+[PROS] Saya lakukan apapun yang bisa membantu mempercepat selesainya masalah.
 
 ### SOAL 10
-Saya yakinkan diri sendiri, setiap kejadian pasti ada makna tersendiri di baliknya.
+[COGR] Saya yakinkan diri sendiri, setiap kejadian pasti ada makna tersendiri di baliknya.
 
 ### SOAL 11
-Saya lakukan sesuatu, dalam rangka keluar dari situasi ini.
+[EXPE] Saya lakukan sesuatu, dalam rangka keluar dari situasi ini.
 
 ### SOAL 12
-Saya menemukan seorang pendengar yang baik.
+[SOCS] Saya menemukan seorang pendengar yang baik.
 
 ### SOAL 13
-Saya bersikap seolah tak terjadi suatu apapun.
+[PROA] Saya bersikap seolah tak terjadi suatu apapun.
 
 ### SOAL 14
-Saya berharap akan terjadi sebuah keajaiban.
+[WIST] Saya berharap akan terjadi sebuah keajaiban.
 
 ### SOAL 15
-Saya menyadari, saya sendiri yang menyebabkan masalah ini berlarut-larut.
+[SELC] Saya menyadari, saya sendiri yang menyebabkan masalah ini berlarut-larut.
 
 ### SOAL 16
-Saya lebih banyak menghabiskan waktu sendirian.
+[SOCW] Saya lebih banyak menghabiskan waktu sendirian.
 
 ### SOAL 17
-Saya bertahan dan berjuang untuk mencapai solusi yang saya inginkan.
+[PROS] Saya bertahan dan berjuang untuk mencapai solusi yang saya inginkan.
 
 ### SOAL 18
-Saya katakan pada diri saya sendiri beragam hal yang bisa membuat saya merasa lebih baik.
+[COGR] Saya katakan pada diri saya sendiri beragam hal yang bisa membuat saya merasa lebih baik.
 
 ### SOAL 19
-Saya biarkan emosi saya keluar.
+[EXPE] Saya biarkan emosi saya keluar.
 
 ### SOAL 20
-Saya ceritakan bagaimana perasaan saya pada seseorang.
+[SOCS] Saya ceritakan bagaimana perasaan saya pada seseorang.
 
 ### SOAL 21
-Saya coba melupakan semuanya.
+[PROA] Saya coba melupakan semuanya.
 
 ### SOAL 22
-Saya berharap untuk tidak terlibat dengan situasi tersebut.
+[WIST] Saya berharap untuk tidak terlibat dengan situasi tersebut.
 
 ### SOAL 23
-Saya menyalahkan diri sendiri.
+[SELC] Saya menyalahkan diri sendiri.
 
 ### SOAL 24
-Saya menghindar dari keluarga dan teman teman.
+[SOCW] Saya menghindar dari keluarga dan teman teman.
 
 ### SOAL 25
-Saya membuat rencana tindakan dan menjalankannya.
+[PROS] Saya membuat rencana tindakan dan menjalankannya.
 
 ### SOAL 26
-Saya mencoba realistis, melakukan yang terbaik dari yang masih bisa dilakukan.
+[COGR] Saya mencoba realistis, melakukan yang terbaik dari yang masih bisa dilakukan.
 
 ### SOAL 27
-Saya mengurangi stress dengan cara sharing tentang perasaan saya.
+[EXPE] Saya mengurangi stress dengan cara sharing tentang perasaan saya.
 
 ### SOAL 28
-Saya lebih banyak bergaul dengan orang yang saya sukai.
+[SOCS] Saya lebih banyak bergaul dengan orang yang saya sukai.
 
 ### SOAL 29
-Saya tidak mau terpengaruh, saya tidak mau memikirkannya terlalu dalam.
+[PROA] Saya tidak mau terpengaruh, saya tidak mau memikirkannya terlalu dalam.
 
 ### SOAL 30
-Saya berharap situasi tersebut akan selesai dengan sendirinya.
+[WIST] Saya berharap situasi tersebut akan selesai dengan sendirinya.
 
 ### SOAL 31
-Saya mengkritik diri saya sendiri atas semua yang sudah terjadi.
+[SELC] Saya mengkritik diri saya sendiri atas semua yang sudah terjadi.
 
 ### SOAL 32
-Saya menghindar dari orang-orang.
+[SOCW] Saya menghindar dari orang-orang.
 
 ### SOAL 33
-Saya selesaikan secara personal, berhadapan langsung dengan masalah tersebut.
+[PROS] Saya selesaikan secara personal, berhadapan langsung dengan masalah tersebut.
 
 ### SOAL 34
-Saya menganalisa tentang bagaimana dan mengapa semua ini bisa terjadi.
+[COGR] Saya menganalisa tentang bagaimana dan mengapa semua ini bisa terjadi.
 
 ### SOAL 35
-Terkadang saya sengaja mengeluarkan isi hati saya.
+[EXPE] Terkadang saya sengaja mengeluarkan isi hati saya.
 
 ### SOAL 36
-Saya ngobrol dengan orang yang dekat dengan saya.
+[SOCS] Saya ngobrol dengan orang yang dekat dengan saya.
 
 ### SOAL 37
-Saya bersikap bahwa itu masalah orang lain, bukan masalah saya.
+[PROA] Saya bersikap bahwa itu masalah orang lain, bukan masalah saya.
 
 ### SOAL 38
-Saya berharap kejadian itu tidak pernah terjadi.
+[WIST] Saya berharap kejadian itu tidak pernah terjadi.
 
 ### SOAL 39
-Karena semua itu salah saya sendiri, saya harus menanggung segala resikonya.
+[SELC] Karena semua itu salah saya sendiri, saya harus menanggung segala resikonya.
 
 ### SOAL 40
-Saya tidak memberitahu orang lain tentang masalah tersebut.
+[SOCW] Saya tidak memberitahu orang lain tentang masalah tersebut.
 
 ### SOAL 41
-Saya tahu yang harus dilakukan dan berusaha sekuat tenaga menyelesaikannya.
+[PROS] Saya tahu yang harus dilakukan dan berusaha sekuat tenaga menyelesaikannya.
 
 ### SOAL 42
-Saya meyakinkan diri saya bahwa semua itu tidak seberat yang dikira.
+[COGR] Saya meyakinkan diri saya bahwa semua itu tidak seberat yang dikira.
 
 ### SOAL 43
-Berbagi tentang perasaan yang saya alami adalah cara saya mengekspresikan emosi.
+[EXPE] Berbagi tentang perasaan yang saya alami adalah cara saya mengekspresikan emosi.
 
 ### SOAL 44
-Saya biarkan teman-teman saya membantu.
+[SOCS] Saya biarkan teman-teman saya membantu.
 
 ### SOAL 45
-Saya menghindari orang yang menyebabkan masalah terjadi.
+[PROA] Saya menghindari orang yang menyebabkan masalah terjadi.
 
 ### SOAL 46
-Saya berharap dan berandai-andai, seharusnya kejadiannya tidak seperti itu.
+[WIST] Saya berharap dan berandai-andai, seharusnya kejadiannya tidak seperti itu.
 
 ### SOAL 47
-Saya menyadari dan selalu menceramahi diri sendiri, bahwa semua itu karena kesalahan saya.
+[SELC] Saya menyadari dan selalu menceramahi diri sendiri, bahwa semua itu karena kesalahan saya.
 
 ### SOAL 48
-Saya cukup sering meluangkan waktu untuk sendiri.
+[SOCW] Saya cukup sering meluangkan waktu untuk sendiri.
 
 ### SOAL 49
-Melakukan beragam cara baru dan tidak biasa, karena masalahnya rumit & ruwet.
+[PROS] Melakukan beragam cara baru dan tidak biasa, karena masalahnya rumit & ruwet.
 
 ### SOAL 50
-Diam dan tenang sejenak, mencoba melihat situasi tersebut dari beragam perspektif.
+[COGR] Diam dan tenang sejenak, mencoba melihat situasi tersebut dari beragam perspektif.
 
 ### SOAL 51
-Rasanya kepala mau pecah, dan akhirnya emosi saya jebol tidak mampu ditahan.
+[EXPE] Rasanya kepala mau pecah, dan akhirnya emosi saya jebol tidak mampu ditahan.
 
 ### SOAL 52
-Menghubungi teman dan anggota keluarga yang disegani, lalu meminta nasehat mereka.
+[SOCS] Menghubungi teman dan anggota keluarga yang disegani, lalu meminta nasehat mereka.
 
 ### SOAL 53
-Saya mencoba santai, tidak mau terlalu serius memikirkannya.
+[PROA] Saya mencoba santai, tidak mau terlalu serius memikirkannya.
 
 ### SOAL 54
-Saya berharap kalau saya cukup sabar, mestinya masalah akan selesai dengan sendirinya.
+[WIST] Saya berharap kalau saya cukup sabar, mestinya masalah akan selesai dengan sendirinya.
 
 ### SOAL 55
-Saya menyesali diri sendiri karena membiarkan semua itu terjadi.
+[SELC] Saya menyesali diri sendiri karena membiarkan semua itu terjadi.
 
 ### SOAL 56
-Saya simpan perasaan dan pikiran saya untuk diri sendiri.
+[SOCW] Saya simpan perasaan dan pikiran saya untuk diri sendiri.
 
 ### SOAL 57
-Saya bekerja keras menyelesaikannya langsung di tempat masalah tersebut terjadi.
+[PROS] Saya bekerja keras menyelesaikannya langsung di tempat masalah tersebut terjadi.
 
 ### SOAL 58
-Saya mencoba merinci dan memilahnya sehingga tidak terasa terlalu berat masalahnya.
+[COGR] Saya mencoba merinci dan memilahnya sehingga tidak terasa terlalu berat masalahnya.
 
 ### SOAL 59
-Saya mencoba berdialog dengan perasaan saya, lalu mengeluarkannya dengan lega.
+[EXPE] Saya mencoba berdialog dengan perasaan saya, lalu mengeluarkannya dengan lega.
 
 ### SOAL 60
-Saya luangkan waktu bercengkerama dengan teman-teman saya.
+[SOCS] Saya luangkan waktu bercengkerama dengan teman-teman saya.
 
 ### SOAL 61
-Daripada selalu sedih kalau mengingatnya, saya mencoba untuk tidak memikirkannya lagi.
+[PROA] Daripada selalu sedih kalau mengingatnya, saya mencoba untuk tidak memikirkannya lagi.
 
 ### SOAL 62
-Saya sering berandai-andai bahwa saya bisa mencegah hal tersebut terjadi.
+[WIST] Saya sering berandai-andai bahwa saya bisa mencegah hal tersebut terjadi.
 
 ### SOAL 63
-Semua kesalahan saya, dan saya menerima segala resiko dan penderitaannya.
+[SELC] Semua kesalahan saya, dan saya menerima segala resiko dan penderitaannya.
 
 ### SOAL 64
-Saya tidak membiarkan keluarga dan teman-teman tahu apa yang sebenarnya terjadi.
+[SOCW] Saya tidak membiarkan keluarga dan teman-teman tahu apa yang sebenarnya terjadi.
 
 ### SOAL 65
-Saya berusaha mati-matian menyelesaikan masalah tersebut.
+[PROS] Saya berusaha mati-matian menyelesaikan masalah tersebut.
 
 ### SOAL 66
-Saya tak pernah menyerah sampai akhirnya menemukan secercah harapan untuk solusinya.
+[COGR] Saya tak pernah menyerah sampai akhirnya menemukan secercah harapan untuk solusinya.
 
 ### SOAL 67
-Saya benar-benar marah dan emosi.
+[EXPE] Saya benar-benar marah dan emosi.
 
 ### SOAL 68
-Saya ngobrol dengan orang yang pernah mengalami situasi yang kurang lebih sama.
+[SOCS] Saya ngobrol dengan orang yang pernah mengalami situasi yang kurang lebih sama.
 
 ### SOAL 69
-Saya tidak mau memikirkan ataupun melakukan sesuatu berkenaan dengan masalah tersebut.
+[PROA] Saya tidak mau memikirkan ataupun melakukan sesuatu berkenaan dengan masalah tersebut.
 
 ### SOAL 70
-Saya berkhayal tentang sesuatu yang fantastik, yang membuat saya merasa lebih baik.
+[WIST] Saya berkhayal tentang sesuatu yang fantastik, yang membuat saya merasa lebih baik.
 
 ### SOAL 71
-Saya katakan pada diri saya sendiri betapa bodohnya saya.
+[SELC] Saya katakan pada diri saya sendiri betapa bodohnya saya.
 
 ### SOAL 72
-Saya tidak membiarkan siapapun mengetahui bagaimana perasaan saya.
+[SOCW] Saya tidak membiarkan siapapun mengetahui bagaimana perasaan saya.
 
 
 ## Terima Kasih
