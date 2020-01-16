@@ -2,18 +2,16 @@
 
 # Meta
 
-- moduleName value="AIME default" (nama modul atau alat test)
-- moduleTitle value="" (judul modul)
-- mediaPath value="" (folder media, dikosongkan)
-- evidenceType value="options" (bentuk pilihan jawaban)
-- evidenceType value="options" (jenis jawaban, isinya bisa options / writing / behavior)
-- testItems value="136" (jumlah soal)
-- itemsType value="simple" (tipe soal, isinya bisa simple / teaser / teaser-grouped)
-- evidence value="nomor" (kolom apa saja yang harus di-save sbg evidence, isinya bisa nomor / kode/elemen / statement)
-- evidence value="nomor, kode/elemen, statement" (kolom apa saja yang harus di-save sbg evidence)
-- optionsType value="predefined" (tipe pilihan, isinya bisa statement / predefined)
-- optionsNums value="5" (jumlah pilihan jawaban)
-- optionsSelect value="1" (jumlah pilihan yang harus dipilih)
+- moduleName value="AIME default" 
+- moduleTitle value=""
+- mediaPath value=""
+- evidenceType value="options"
+- testItems value="136"
+- itemsType value="simple" 
+- evidence value="nomor, kode/elemen, statement" 
+- optionsType value="predefined" 
+- optionsNums value="5"
+- optionsSelect value="1"
 - elements="IDEN, USIN, UNDE, MANA"
 
 # PredefinedItems
