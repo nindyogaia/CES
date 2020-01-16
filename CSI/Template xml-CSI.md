@@ -14,7 +14,9 @@
 - optionsSelect value="1" (jumlah pilihan yang harus dipilih)
 - elements=PROS, COGR, EXPE, SOCS, PROA, WIST, SELC, SOCW, PRFE, EMFE, PRFD, EMFD, ENGA, DISE
 
-# PredefinedItems
+# PredefinedItems 
+
+(item-item yang dipakai berulang)
 
 - Options
 - Options name="likert"
