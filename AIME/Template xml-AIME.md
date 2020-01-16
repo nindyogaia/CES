@@ -8,6 +8,7 @@
 - evidenceType value="options" (jenis jawaban, isinya bisa options / writing / behavior)
 - testItems value="136" (jumlah soal)
 - itemsType value="simple" (tipe soal, isinya bisa simple / teaser / teaser-grouped)
+- evidence value="nomor" (kolom apa saja yang harus di-save sbg evidence, isinya bisa nomor / kode/elemen / statement)
 - evidence value="nomor, kode/elemen, statement" (kolom apa saja yang harus di-save sbg evidence)
 - optionsType value="predefined" (tipe pilihan, isinya bisa statement / predefined)
 - optionsNums value="5" (jumlah pilihan jawaban)
@@ -31,7 +32,9 @@ Simaklah beragam pernyataan berikut, kemudian pilihlah salah satu dari kolom SAN
 
 diisi dengan soal/pernyataannya.
 
-untuk AIME, CSI dan G-PSI, di depan pernyataan harap ditulis tanda (+) atau (-)
+- untuk AIME dan G-PSI, di depan pernyataan harap ditulis tanda (+) atau (-)
+- untuk AIME, CSI dan G-PSI, di depan pernyataan harap ditulis tanda (+) atau (-)
+
 
 tanda (+) jika nilai SANGAT SETUJU = 5, nilai SANGAT TIDAK SETUJU = 1   
 tanda (-) jika nilai SANGAT SETUJU = 1, nilai SANGAT TIDAK SETUJU = 5
@@ -49,4 +52,5 @@ artinya, SANGAT SETUJU nilainya 5, SANGAT TIDAK SETUJU nilainya 1
 (-) Ketika sedang memikirkan sesuatu, saya memblokir perasaan saya.
 
 artinya, SANGAT SETUJU nilainya 1, SANGAT TIDAK SETUJU nilainya 5
+
 
