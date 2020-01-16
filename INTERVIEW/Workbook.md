@@ -1,15 +1,18 @@
 
 # WORKBOOK INTERVIEW
 
-- title: BEI GAIA
-- bookType: 
-- testItems: 12
-- optionsMode: 
-- optionsNums: 
-- optionsSelect: 
-- evidenceType: reported behavior
-- teaserTail: 
-- elements: KPIS, GOATS, PDCA, SKEM, PICA, COPC, COAC, SELD, PEOD, CUSS, SOMA, SOCA
+- moduleName value="GAIA BEI" (nama modul)
+- moduleTitle value="" (judul modul)
+- mediaPath value="" (folder media, dikosongkan)
+- evidenceType value="behavior" (jenis jawaban, isinya bisa option / writing / behavior)
+- testItems value="12" (jumlah soal)
+- itemsType value="" (tipe soal, isinya bisa simple / teaser / teaser-grouped)
+- evidence value="" (kolom apa saja yang harus di-save sbg evidence, isinya bisa nomor / kode/elemen / statement)
+- evidence value="nomor, kode/elemen, statement" (kolom apa saja yang harus di-save sbg evidence)
+- optionsType value="" (tipe pilihan, isinya bisa statement / predefined)
+- optionsNums value="" (jumlah pilihan)
+- optionsSelect value="" (jumlah pilihan yang harus dipilih)
+- elements="KPIS, GOATS, PDCA, SKEM, PICA, COPC, COAC, SELD, PEOD, CUSS, SOMA, SOCA"
 
 # INTRO
 
