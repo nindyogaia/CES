@@ -9,6 +9,7 @@
 - testItems value="136" (jumlah soal)
 - itemsType value="simple" (tipe soal, isinya bisa simple / teaser / teaser-grouped)
 - evidence value="nomor" (kolom apa saja yang harus di-save sbg evidence, isinya bisa nomor / kode/elemen / statement)
+- evidence value="nomor, kode/elemen, statement" (kolom apa saja yang harus di-save sbg evidence)
 - optionsType value="predefined" (tipe pilihan, isinya bisa statement / predefined)
 - optionsNums value="5" (jumlah pilihan jawaban)
 - optionsSelect value="1" (jumlah pilihan yang harus dipilih)
@@ -31,7 +32,9 @@ Simaklah beragam pernyataan berikut, kemudian pilihlah salah satu dari kolom SAN
 
 diisi dengan soal/pernyataannya.
 
-untuk AIME dan G-PSI, di depan pernyataan harap ditulis tanda (+) atau (-)
+- untuk AIME dan G-PSI, di depan pernyataan harap ditulis tanda (+) atau (-)
+- untuk AIME, CSI dan G-PSI, di depan pernyataan harap ditulis tanda (+) atau (-)
+
 
 tanda (+) jika nilai SANGAT SETUJU = 5, nilai SANGAT TIDAK SETUJU = 1   
 tanda (-) jika nilai SANGAT SETUJU = 1, nilai SANGAT TIDAK SETUJU = 5
