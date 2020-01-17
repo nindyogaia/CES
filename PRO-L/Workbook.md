@@ -2,7 +2,7 @@
 
 - title: PRO-L
 - bookType: simple
-- testItems: 60
+- testItems: 120
 - optionsMode: statement
 - optionsNums: 2
 - optionsSelect: 1
