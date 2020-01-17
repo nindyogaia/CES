@@ -2,21 +2,20 @@
 
 # Meta
 
-- moduleName value="CSI default" (nama modul atau alat test)
-- moduleTitle value="" (judul modul)
-- mediaPath value="" (folder media, dikosongkan)
-- evidenceType value="options" (jenis jawaban, isinya bisa options / writing / behavior)
-- testItems value="136" (jumlah soal)
-- itemsType value="simple" (tipe soal, isinya bisa simple / teaser / teaser-grouped)
-- evidence value="nomor, kode/elemen, statement" (kolom apa saja yang harus di-save sbg evidence)
-- optionsType value="predefined" (tipe pilihan, isinya bisa statement / predefined)
-- optionsNums value="5" (jumlah pilihan jawaban)
-- optionsSelect value="1" (jumlah pilihan yang harus dipilih)
+- moduleName value="CSI default"
+- moduleTitle value=""
+- mediaPath value=""
+- evidenceType value="options" 
+- testItems value="72"
+- itemsType value="simple" 
+- evidence value="nomor, kode/elemen, statement"
+- optionsType value="predefined"
+- optionsNums value="5"
+- optionsSelect value="1"
 - elements=PROS, COGR, EXPE, SOCS, PROA, WIST, SELC, SOCW, PRFE, EMFE, PRFD, EMFD, ENGA, DISE
 
 # PredefinedItems 
 
-(item-item yang dipakai berulang)
 
 - Options
 - Options name="likert"
@@ -27,6 +26,10 @@
 - Options role="5"Sangat sesuai
 
 # BookIntro
+
+Bayangkan suatu situasi yang pernah terjadi dalam hidup Anda, dan telah membuat Anda menjadi stress berat.
+
+Kemudian simaklah beragam pernyataan di halaman selanjutnya, kemudian pilihlah salah satu dari kolom **SANGAT TIDAK SESUAI, TIDAK SESUAI, AGAK SESUAI, SESUAI, SANGAT SESUAI** yang menggambarkan diri Anda.
 
 # BookBody
 

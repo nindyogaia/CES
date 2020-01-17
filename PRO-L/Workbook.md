@@ -23,6 +23,18 @@
 
 # BookIntro
 
+- title: PRO-L
+- bookType: simple
+- testItems: 120
+- optionsMode: statement
+- optionsNums: 2
+- optionsSelect: 1
+- evidenceType: option
+- teaserTail: 
+- elements: MOTI, RESP, PROG, SITU, FLEK, AFIL, INST, ASER, STAB, SIST, KONS, INDE, PENG, PENE
+
+# INTRO
+
 **BACALAH DENGAN SEKSAMA DAN PASTIKAN SEMUA JAWABAN TERISI**
 
 **Instruksi Umum**
