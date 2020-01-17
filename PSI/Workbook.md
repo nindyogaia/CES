@@ -1,395 +1,400 @@
-# WORKBOOK PSI
+# WORKBOOK GPSI
 
-- title: PSI
-- bookType: simple-teaser
-- testItems: 120
-- optionsMode: likert
-- optionsNums: 5
-- optionsSelect: 1
-- evidenceType: option
-- teaserTail: 
-- elements: 
+- moduleName value="PSI default"
+- moduleTitle value=""
+- mediaPath value=""
+- evidenceType value="options"
+- testItems value="120"
+- itemsType value="simple"
+- evidence value="nomor, likert, kode/elemen, statement"
+- optionsType value="predefined"
+- optionsNums value="5"
+- optionsSelect value="1"
+- elements="TRUS, MORA, ALTR, COOP, MODE, SYMP, SELE, ORDE, DUTI, ACHS, SELD, CAUT, FRIE, GREG, ASSE, ACTL, EXCS, CHEE, ANXI, ANGE, DEPR, UNSC, IMMO, VULN, IMAG, ARTI, EMOT, ADVE, INTL, LIBE, AGRE, CONS, EXTR, STRE, OPEN"
 
-# LIKERT
+# PredefinedItems
 
-- SANGAT TIDAK SETUJU
-- TIDAK SETUJU
-- RAGU-RAGU
-- SETUJU
-- SANGAT SETUJU
+- Options
+- Option name="likert"
+- Option role="1"Sangat tidak setuju
+- Option role="2"Tidak setuju
+- Option role="3"Ragu ragu
+- Option role="4"Setuju
+- Option role="5"Sangat setuju
 
-# INTRO
+# BookIntro
 
 Simaklah beragam pernyataan berikut, kemudian pilihlah salah satu dari kolom **SANGAT TIDAK SETUJU, TIDAK SETUJU, RAGU-RAGU, SETUJU, SANGAT SETUJU** yang menggambarkan diri Anda.
 
 ### SELAMAT MENGERJAKAN
 
+# BookBody
+
 ### SOAL 1
-Khawatir dengan beragam dan banyak hal
+[ANXI] Khawatir dengan beragam dan banyak hal
 
 ### SOAL 2
-Mudah berteman
+[FRIE] Mudah berteman
 
 ### SOAL 3
-Penuh imajinasi
+[IMAG] Penuh imajinasi
 
 ### SOAL 4
-Percaya pada orang lain
+[TRUS] Percaya pada orang lain
 
 ### SOAL 5
-Menyelesaikan tugas dengan baik
+[SELE] Menyelesaikan tugas dengan baik
 
 ### SOAL 6
-Gampang marah
+[ANGE] Gampang marah
 
 ### SOAL 7
-Senang berkumpul dengan banyak dan beragam orang
+[GREG] Senang berkumpul dengan banyak dan beragam orang
 
 ### SOAL 8
-Percaya pada pentingnya seni
+[ARTI] Percaya pada pentingnya seni
 
 ### SOAL 9
-Memanfaatkan orang lain untuk kepentingan pribadi
+[MORA] Memanfaatkan orang lain untuk kepentingan pribadi
 
 ### SOAL 10
-Suka kerapian
+[ORDE] Suka kerapian
 
 ### SOAL 11
-Sering merasa sedih
+[DEPR] Sering merasa sedih
 
 ### SOAL 12
-Mengambil alih pekerjaan
+[ASSE] Mengambil alih pekerjaan
 
 ### SOAL 13
-Merasakan secara intens emosi yang sedang dialami
+[EMOT] Merasakan secara intens emosi yang sedang dialami
 
 ### SOAL 14
-Senang membantu orang lain
+[ALTR] Senang membantu orang lain
 
 ### SOAL 15
-Menepati janji
+[DUTI] Menepati janji
 
 ### SOAL 16 
-Sulit melakukan pendekatan dengan orang lain
+[UNSC] Sulit melakukan pendekatan dengan orang lain
 
 ### SOAL 17
-Selalu sibuk
+[ACTLV] Selalu sibuk
 
 ### SOAL 18
-Tidak suka rutinitas
+[ADVE] Tidak suka rutinitas
 
 ### SOAL 19
-Senang berdebat
+[COOP] Senang berdebat
 
 ### SOAL 20
-Pekerja keras
+[ACHS] Pekerja keras
 
 ### SOAL 21
-Plesir dan berfoya-foya
+[IMMO] Plesir dan berfoya-foya
 
 ### SOAL 22
-Suka hal yang heboh dan hura-hura
+[EXCS] Suka hal yang heboh dan hura-hura
 
 ### SOAL 23
-Suka membaca beragam topik yang sulit dan menantang
+[INTL] Suka membaca beragam topik yang sulit dan menantang
 
 ### SOAL 24
-Merasa lebih baik dibanding orang lain
+[MODE] Merasa lebih baik dibanding orang lain
 
 ### SOAL 25
-Melakukan persiapan untuk segala hal
+[SELD] Melakukan persiapan untuk segala hal
 
 ### SOAL 26
-Mudah panik
+[VULN] Mudah panik
 
 ### SOAL 27
-Bergembira selalu
+[CHEE] Bergembira selalu
 
 ### SOAL 28
-Cenderung memilih kandidat politik yang liberal
+[LIBE] Cenderung memilih kandidat politik yang liberal
 
 ### SOAL 29
-Bersimpati pada para gelandangan
+[SYMP] Bersimpati pada para gelandangan
 
 ### SOAL 30
-Tidak berpikir panjang langsung bereaksi
+[CAUT] Tidak berpikir panjang langsung bereaksi
 
 ### SOAL 31
-Takut hal-hal buruk akan terjadi
+[ANXI] Takut hal-hal buruk akan terjadi
 
 ### SOAL 32
-Merasa nyaman berada di sekitar orang banyak
+[FRIE] Merasa nyaman berada di sekitar orang banyak
 
 ### SOAL 33
-Menikmati fantasi yang liar dan khayali
+[IMAG] Menikmati fantasi yang liar dan khayali
 
 ### SOAL 34
-Percaya bahwa setiap orang pada dasarnya baik
+[TRUS] Percaya bahwa setiap orang pada dasarnya baik
 
 ### SOAL 35
-Menguasai hal yang saya kerjakan
+[SELE] Menguasai hal yang saya kerjakan
 
 ### SOAL 36
-Gampang kesal
+[ANGE] Gampang kesal
 
 ### SOAL 37
-Berbicara dengan beragam orang di sebuah keramaian	
+[GREG] Berbicara dengan beragam orang di sebuah keramaian	
 
 ### SOAL 38
-Melihat keindahan tersendiri yang orang lain tidak melihatnya
+[ARTI] Melihat keindahan tersendiri yang orang lain tidak melihatnya
 
 ### SOAL 39
-Berani curang demi mencapai tujuan
+[MORA] Berani curang demi mencapai tujuan
 
 ### SOAL 40
-Sering lupa mengembalikan sesuatu pada tempatnya
+[ORDE] Sering lupa mengembalikan sesuatu pada tempatnya
 
 ### SOAL 41
-Membenci diri sendiri
+[DEPR] Membenci diri sendiri
 
 ### SOAL 42
-Berusaha memimpin
+[ASSE] Berusaha memimpin
 
 ### SOAL 43
-Merasakan emosi orang lain
+[EMOT] Merasakan emosi orang lain
 
 ### SOAL 44
-Peduli dengan orang lain
+[ALTR] Peduli dengan orang lain
 
 ### SOAL 45
-Berkata apa adanya
+[DUTI] Berkata apa adanya
 
 ### SOAL 46
-Takut kalau orang lain jadi memperhatikan saya
+[UNSC] Takut kalau orang lain jadi memperhatikan saya
 
 ### SOAL 47
-Selalu siap siaga dan siap sedia
+[ACTL] Selalu siap siaga dan siap sedia
 
 ### SOAL 48
-Bersikukuh dengan hal-hal yang saya tahu
+[ADVE] Bersikukuh dengan hal-hal yang saya tahu
 
 ### SOAL 49
-Berteriak ke orang lain
+[COOP] Berteriak ke orang lain
 
 ### SOAL 50
-Bekerja lebih dari yang diharapkan
+[ACHS] Bekerja lebih dari yang diharapkan
 
 ### SOAL 51
-Jarang bertindak mengikuti nafsu belaka
+[IMMO] Jarang bertindak mengikuti nafsu belaka
 
 ### SOAL 52
-Menyukai petualangan yang menantang
+[EXCS] Menyukai petualangan yang menantang
 
 ### SOAL 53
-Menghindari diskusi yang filosofis
+[INTL] Menghindari diskusi yang filosofis
 
 ### SOAL 54
-Bangga dengan diri sendiri
+[MODE] Bangga dengan diri sendiri
 
 ### SOAL 55
-Menjalankan segala sesuatu sesuai rencana
+[SELD] Menjalankan segala sesuatu sesuai rencana
 
 ### SOAL 56
-Kewalahan dan bingung sendiri menghadapi situasi sekitar
+[VULN] Kewalahan dan bingung sendiri menghadapi situasi sekitar
 
 ### SOAL 57
-Penuh canda tawa
+[CHEE] Penuh canda tawa
 
 ### SOAL 58
-Percaya bahwa tidak ada hal yang mutlak benar atau salah
+[LIBE] Percaya bahwa tidak ada hal yang mutlak benar atau salah
 
 ### SOAL 59
-Bersimpati pada mereka yang lebih menderita
+[SYMP] Bersimpati pada mereka yang lebih menderita
 
 ### SOAL 60
-Secepat kilat mengambil keputusan
+[CAUT] Secepat kilat mengambil keputusan
 
 ### SOAL 61
-Takut pada banyak hal
+[ANXI] Takut pada banyak hal
 
 ### SOAL 62
-Menghindari kontak dengan orang lain
+[FRIE] Menghindari kontak dengan orang lain
 
 ### SOAL 63
-Suka melamun dan berkhayal
+[IMAG] Suka melamun dan berkhayal
 
 ### SOAL 64
-Percaya pada apa yang dikatakan orang
+[TRUS] Percaya pada apa yang dikatakan orang
 
 ### SOAL 65
-Menjalankan tugas dengan mulus
+[SELE] Menjalankan tugas dengan mulus
 
 ### SOAL 66
-Sering lepas kontrol
+[ANGE] Sering lepas kontrol
 
 ### SOAL 67
-Lebih memilih untuk sendiri
+[GREG] Lebih memilih untuk sendiri
 
 ### SOAL 68
-Tidak suka puisi
+[ARTI] Tidak suka puisi
 
 ### SOAL 69
-Mengambil keuntungan dari upaya orang lain
+[MORA] Mengambil keuntungan dari upaya orang lain
 
 ### SOAL 70
-Kamar sering berantakan
+[ORDE] Kamar sering berantakan
 
 ### SOAL 71
-Sering larut dalam kesedihan
+[DEPR] Sering larut dalam kesedihan
 
 ### SOAL 72
-Mengontrol beragam hal
+[ASSE] Mengontrol beragam hal
 
 ### SOAL 73
-Jarang memperhatikan reaksi emosi saya sendiri
+[EMOT] Jarang memperhatikan reaksi emosi saya sendiri
 
 ### SOAL 74
-Acuh tak acuh terhadap orang lain
+[ALTR] Acuh tak acuh terhadap orang lain
 
 ### SOAL 75
-Melanggar aturan
+[DUTI] Melanggar aturan
 
 ### SOAL 76
-Hanya merasa nyaman di sekitar teman dekat
+[UNSC] Hanya merasa nyaman di sekitar teman dekat
 
 ### SOAL 77
-Tidak pernah bisa menganggur
+[ACTL] Tidak pernah bisa menganggur
 
 ### SOAL 78
-Tidak suka perubahan
+[ADVE] Tidak suka perubahan
 
 ### SOAL 79
-Menghina orang
+[COOP] Menghina orang
 
 ### SOAL 80
-Bekerja secukupnya asal sesuai dengan yang diharapkan
+[ACHS] Bekerja secukupnya asal sesuai dengan yang diharapkan
 
 ### SOAL 81
-Mudah menahan godaan
+[IMMO] Mudah menahan godaan
 
 ### SOAL 82
-Suka nekat dan ugal-ugalan
+[EXCS] Suka nekat dan ugal-ugalan
 
 ### SOAL 83
-Sulit mengikuti ide yang abstrak
+[INTL] Sulit mengikuti ide yang abstrak
 
 ### SOAL 84
-Berpikir lebih tentang diri sendiri
+[MODE] Berpikir lebih tentang diri sendiri
 
 ### SOAL 85
-Membuang-buang waktu
+[SELD] Membuang-buang waktu
 
 ### SOAL 86
-Merasa tidak mampu menjalankan beragam dan banyak hal	
+[VULN] Merasa tidak mampu menjalankan beragam dan banyak hal	
 
 ### SOAL 87
-Mencintai hidup
+[CHEE] Mencintai hidup
 
 ### SOAL 88
-Cenderung untuk memilih kandidat politik yang konservatif
+[LIBE] Cenderung untuk memilih kandidat politik yang konservatif
 
 ### SOAL 89
-Tidak peduli dengan permasalahan orang lain
+[SYMP] Tidak peduli dengan permasalahan orang lain
 
 ### SOAL 90
-Terburu-buru mengambil keputusan
+[CAUT] Terburu-buru mengambil keputusan
 
 ### SOAL 91
-Gampang stress
+[ANXI] Gampang stress
 
 ### SOAL 92
-Menjaga jarak
+[FRIE] Menjaga jarak
 
 ### SOAL 93
-Sering tenggelam dengan pikiran sendiri
+[IMAG] Sering tenggelam dengan pikiran sendiri
 
 ### SOAL 94
-Tidak percaya orang lain
+[TRUS] Tidak percaya orang lain
 
 ### SOAL 95
-Tahu bagaimana mengerjakan sesuatu dengan benar
+[SELE] Tahu bagaimana mengerjakan sesuatu dengan benar
 
 ### SOAL 96
-Tidak mudah terganggu
+[ANGE] Tidak mudah terganggu
 
 ### SOAL 97
-Menghindari keramaian
+[GREG] Menghindari keramaian
 
 ### SOAL 98
-Tidak suka ke museum
+[ARTI] Tidak suka ke museum
 
 ### SOAL 99
-Menghalangi rencana orang lain
+[MORA] Menghalangi rencana orang lain
 
 ### SOAL 100
-Barang-barang saya tersebar di mana-mana
+[ORDE] Barang-barang saya tersebar di mana-mana
 
 ### SOAL 101
-Merasa nyaman dengan diri saya sendiri
+[DEPR] Merasa nyaman dengan diri saya sendiri
 
 ### SOAL 102
-Menunggu ada orang lain yang memimpin
+[ASSE] Menunggu ada orang lain yang memimpin
 
 ### SOAL 103
-Tidak bisa menangkap maksud dari orang yang sedang emosi	
+[EMOT] Tidak bisa menangkap maksud dari orang yang sedang emosi	
 
 ### SOAL 104
-Tidak ada waktu untuk orang lain
+[ALTR] Tidak ada waktu untuk orang lain
 
 ### SOAL 105
-Tidak menepati janji
+[DUTI] Tidak menepati janji
 
 ### SOAL 106
-Tidak terganggu oleh situasi sosial yang tidak mengenakkan	
+[UNSC] Tidak terganggu oleh situasi sosial yang tidak mengenakkan	
 
 ### SOAL 107
-Orang yang santai
+[ACTL] Orang yang santai
 
 ### SOAL 108
-Berpegang teguh pada cara-cara yang konvensional
+[ADVE] Berpegang teguh pada cara-cara yang konvensional
 
 ### SOAL 109
-Membalas balik
+[COOP] Membalas balik
 
 ### SOAL 110
-Tidak harus ngoyo berupaya dan bekerja keras
+[ACHS] Tidak harus ngoyo berupaya dan bekerja keras
 
 ### SOAL 111
-Mampu mengendalikan hasrat saya
+[IMMO] Mampu mengendalikan hasrat saya
 
 ### SOAL 112
-Suka gila-gilaan
+[EXCS] Suka gila-gilaan
 
 ### SOAL 113
-Tidak tertarik dengan diskusi teoritis
+[INTL] Tidak tertarik dengan diskusi teoritis
 
 ### SOAL 114
-Menceritakan kebaikan pribadi yang telah dilakukan
+[MODE] Menceritakan kebaikan pribadi yang telah dilakukan
 
 ### SOAL 115
-Kesulitan untuk mulai mengerjakan tugas
+[SELD] Kesulitan untuk mulai mengerjakan tugas
 
 ### SOAL 116
-Tetap tenang di bawah tekanan
+[VULN] Tetap tenang di bawah tekanan
 
 ### SOAL 117
-Selalu melihat dari sisi positifnya
+[CHEE] Selalu melihat dari sisi positifnya
 
 ### SOAL 118
-Percaya bahwa kita harus bereaksi keras terhadap kejahatan
+[LIBE] Percaya bahwa kita harus bereaksi keras terhadap kejahatan
 
 ### SOAL 119
-Tidak terlalu memikirkan mereka yang kesusahan
+[SYMP] Tidak terlalu memikirkan mereka yang kesusahan
 
 ### SOAL 120
-Bertindak tanpa pikir panjang lebih dahulu
+[CAUT] Bertindak tanpa pikir panjang lebih dahulu
 
 
 
-## SELESAI
+### SELESAI
 
-**TERIMA KASIH ATAS PERHATIAN DAN KERJA SAMANYA**
-
+### TERIMA KASIH ATAS PERHATIAN DAN KERJA SAMANYA
 
 ## ELEMENTS
 
